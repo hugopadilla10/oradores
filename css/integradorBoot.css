@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url(../img/fondoconvencion1.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    }
+
+
+
+.fondonav{
+    background-image: url(../img/teatro.png);
+
+}
+.icono{
+    width: 30px;
+    height: 30px;
+}
+
+.caja{
+    border: 1px solid rgb(224, 81, 81);
+    border-radius: 1rem;
+    background-color: rgb(57, 48, 42);
+
+}
+
+
+a {
+    text-decoration: none;
+}
+
+
+.textoChico {
+    font-size: .8rem;
+}
+
+.carousel-item img {
+    filter: brightness(50%);
+}
+.footer{
+    background-color: rgb(25, 10, 82);
+}
